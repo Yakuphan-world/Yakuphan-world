@@ -29,6 +29,7 @@ I am Yakup Han. In my early career, I was an Electrical Engineer. But now I turn
 <a href="https://kubernetes.io/" rel="noreferrer"><img src="https://github.com/almamunkhan09/almamunkhan09/blob/main/icons8-kubernetes.svg" width="36" height="36" alt="K8s" /></a>
 <a href="https://www.docker.com/" rel="noreferrer"><img src="https://github.com/almamunkhan09/almamunkhan09/blob/main/icons8-docker.svg" width="36" height="36" alt="Docker" /></a>
 <a href="https://circleci.com/" rel="noreferrer"><img src="https://github.com/almamunkhan09/almamunkhan09/blob/main/icons8-circleci.svg" width="36" height="36" alt="CircleCI" /></a>
+<a href="images/logos/circleci.png" target="_blank" rel="noreferrer"><img src="https://github.com/bregman-arie/devops-exercises/blob/master/images/containers.png" width="36" height="36" alt="Containers" /></a>
 
 
 </p>
