@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-I am Yakup Han. In my early career, I was an Electrical Engineer. But now I turned into a DevOps engineer who likes to play with tools for successful software production. I also have experience with technologies like NodeJS, MongoDB, and ExpressJS. I am also exploring new certifications in other technologies.
+I am Yakup Han. In my early career, I was an Electrical Engineer. But now I turned into a DevOps engineer who likes to play with tools for successful software production. I am also exploring new certifications in other technologies.
 
 * 🌍  I'm based in Paderborn,Germany
 * ✉️  You can contact me at [yakuphanbilgic3@gmail.com](mailto:yakuphanbilgic3@gmail.com)
@@ -30,6 +30,8 @@ I am Yakup Han. In my early career, I was an Electrical Engineer. But now I turn
 <a href="https://www.docker.com/" rel="noreferrer"><img src="https://github.com/almamunkhan09/almamunkhan09/blob/main/icons8-docker.svg" width="36" height="36" alt="Docker" /></a>
 <a href="https://circleci.com/" rel="noreferrer"><img src="https://github.com/almamunkhan09/almamunkhan09/blob/main/icons8-circleci.svg" width="36" height="36" alt="CircleCI" /></a>
 <a href="images/logos/circleci.png" target="_blank" rel="noreferrer"><img src="https://github.com/bregman-arie/devops-exercises/blob/master/images/containers.png" width="36" height="36" alt="Containers" /></a>
+<a href="https://linuxzoo.net/" target="_blank" rel="noreferrer"><img src="https://github.com/bregman-arie/devops-exercises/blob/master/images/logos/linux.png" width="36" height="36" alt="Containers" /></a>
+
 
 
 </p>
