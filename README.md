@@ -9,7 +9,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am Yakup Han. In my early career, I was an Electrical Engineer. But now I turned into a DevOps engineer who likes to play with tools for successful software production. I also have experience with technologies like NodeJS, MongoDB, and ExpressJS. I am also exploring new certifications in other technologies.
 
 * 🌍  I'm based in Paderborn,Germany
-* ✉️  You can contact me at [ykuphanbilgic3@gmail.com](mailto:yakuphanbilgic3@gmail.com)
+* ✉️  You can contact me at [yakuphanbilgic3@gmail.com](mailto:yakuphanbilgic3@gmail.com)
 * 🚀  I'm currently working on [AWS/Devops Tools](https://github.com/Yakuphan-world/AWS-Handson)
 * 🧠  I'm learning AWS || DEVOPS TOOLS
 * 🤝  I am open to job offers.
