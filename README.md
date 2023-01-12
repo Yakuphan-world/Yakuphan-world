@@ -12,8 +12,8 @@ I am Yakup Han. In my early career, I was an Electrical Engineer. But now I turn
 * ✉️  You can contact me at [ykuphanbilgic3@gmail.com](mailto:yakuphanbilgic3@gmail.com)
 * 🚀  I'm currently working on [AWS/Devops Tools](https://github.com/Yakuphan-world/AWS-Handson)
 * 🧠  I'm learning AWS || DEVOPS TOOLS
-* 🤝  I'm open to collaborating on MERN projects
-* ⚡  Next- BlockChain Developer
+* 🤝  I am open to job offers.
+* ⚡  Next- Senior Devops Engineer
 
 ### Skills
 
