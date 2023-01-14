@@ -44,13 +44,13 @@ I am Yakup Han. In my early career, I was an Electrical Engineer. But now I turn
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/Yakuphan-world"><img src="https://github-readme-stats.vercel.app/api?username=yakuphan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="almamunkhan09's GitHub stats" /></a>
+<a href="https://github.com/Yakuphan-world"><img src="https://github-readme-stats.vercel.app/api?username=Yakuphan-world&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="almamunkhan09's GitHub stats" /></a>
 
-<a href="https://github.com/Yakuphan-world"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yakuphan&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/Yakuphan-world"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Yakuphan-world&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/Yakuphan-world"><img src="https://activity-graph.herokuapp.com/graph?username=yakuphan&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://github.com/Yakuphan-world"><img src="https://activity-graph.herokuapp.com/graph?username=Yakuphan-world&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
- <a href="https://github.com/Yakuphan-world" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakuphan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> 
+ <a href="https://github.com/Yakuphan-world" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yakuphan-world&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> 
 
 
 
