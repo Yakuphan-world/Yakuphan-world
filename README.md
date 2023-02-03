@@ -52,5 +52,13 @@ I am Yakup Han. In my early career, I was an System Engineer. But now I turned i
 
  <a href="https://github.com/Yakuphan-world" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yakuphan-world&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> 
 
+<p align="center"><b> Thank You for visiting my profile 🙏</b></p>
+
+<div align="center">
+ <b style = {font-weight: 600}>Visitors Count</b>
+
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{latifyildirim}/count.svg" /></p> 
+<br>
+</div>
 
 
