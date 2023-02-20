@@ -38,8 +38,11 @@ I am Yakup Han. In my early career, I was an System Engineer. But now I turned i
 
 ### Socials
 
-<p align="left"> <a href="https://github.com/Yakuphan-world" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yakuphan-bilgic-9b8371239/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-[<img align="left" alt="XINK" width="20px" src="https://cdn.worldvectorlogo.com/logos/xing-icon.svg" style="padding-right:10px;" />](https://www.xing.com/profile/Yakuphan_Bilgic/cv)
+<p align="left"> <a href="https://github.com/Yakuphan-world" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yakuphan-bilgic-9b8371239/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+<a href="https://www.xing.com/profile/Yakuphan_Bilgic/cv" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/xing-icon.svg" width="32" height="32" /></a></p>
+
+
+
 ### Badges
 
 <b>My GitHub Stats</b>
