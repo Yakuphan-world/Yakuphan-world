@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-I am Yakup Han. In my early career, I was an System Engineer. But now I turned into a DevOps engineer who likes to play with tools for successful software production. I am also exploring new certifications in other technologies.
+I am Yakup Han. In my early career, I was an System Engineer. Now I turned into a DevOps engineer who likes to play with tools for successful software production. I am also exploring new certifications in other technologies.
 
 * 🌍  I'm based in Paderborn,Germany
 * ✉️  You can contact me at [yakuphanbilgic3@gmail.com](mailto:yakuphanbilgic3@gmail.com)
