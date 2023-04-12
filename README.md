@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-Welcome to my page . I am Yakup Han. I am a Cloud/DevOps engineer and you can find my work and projects related to this on my page. Most of my work is public and you can benefit from it. Enjoy your work. I am also exploring new certifications in other technologies.
+Welcome to my page . I am a Cloud/DevOps engineer and you can find my work and projects related to this on my page. Most of my work is public and you can benefit from it. Enjoy your work. I am also exploring new certifications in other technologies.
 
 * 🌍  I'm based in Germany
 * ✉️  You can contact me at [yakuphanbilgic3@gmail.com](mailto:yakuphanbilgic3@gmail.com)
