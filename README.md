@@ -6,9 +6,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-I am Yakup Han. In my early career, I was an System Engineer. Now I turned into a DevOps engineer who likes to play with tools for successful software production. I am also exploring new certifications in other technologies.
+Welcome to my page . I am Yakup Han. I am a Cloud/DevOps engineer and you can find my work and projects related to this on my page. Most of my work is public and you can benefit from it. Enjoy your work. I am also exploring new certifications in other technologies.
 
-* 🌍  I'm based in Paderborn,Germany
+* 🌍  I'm based in Germany
 * ✉️  You can contact me at [yakuphanbilgic3@gmail.com](mailto:yakuphanbilgic3@gmail.com)
 * 🚀  I'm currently working on [AWS/Devops Tools](https://github.com/Yakuphan-world/AWS-Handson)
 * 🧠  I'm learning AWS || DEVOPS TOOLS
