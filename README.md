@@ -1,5 +1,3 @@
-![](https://github.com/bregman-arie/devops-exercises/blob/master/images/devops_exercises.png)
-
 ![](https://github.com/Yakuphan-world/Html-forMe/blob/main/Datenschutz-DevOps-iStock-Chavapong-Prateep-Na-Thalang.png)
 
 
