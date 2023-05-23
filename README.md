@@ -12,7 +12,6 @@ Welcome to my page . I am a Cloud/DevOps engineer and you can find my work and p
 * ✉️  You can contact me at [yakuphanbilgic3@gmail.com](mailto:yakuphanbilgic3@gmail.com)
 * 🚀  I'm currently working on [AWS/Devops Tools](https://github.com/Yakuphan-world/AWS-Handson)
 * 🧠  I'm learning AWS || DEVOPS TOOLS
-* 🤝  I am open to job offers.
 * ⚡  Next- Senior Devops Engineer
 
 ### Skills
